@@ -14,3 +14,7 @@
 2. 결과 파일을 저장할 경로를 지정
 3. 작업 완료 후, 결과를 확인하십시오.
 ※ 참고: '.jpg', '.jpeg', '.png', '.tif', '.tiff', '.gif', '.bmp' 이외의 확장자는 지원되지 않습니다.
+
+
+Copyright ⓒ 2023 by Qjins
+All Rights Reserved.
